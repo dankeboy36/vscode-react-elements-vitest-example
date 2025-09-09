@@ -1,5 +1,7 @@
 # Repro: @vscode-elements/react-elements + Vitest (jsdom)
 
+Ref: [vscode-elements/react-elements#19](https://github.com/vscode-elements/react-elements/issues/19)
+
 ## Steps
 
 1) Install
